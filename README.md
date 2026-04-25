@@ -66,13 +66,13 @@ EventHub is a PHP-based web application that allows users to browse events and b
 ### User Registration
 ![User Registration](user_registration.jpg.png)
 ### Ticket Booking
-![Ticket Booking](screenshots/ticket_booking.jpg)
+![Ticket Booking](ticket_booking.jpg.png)
 
 ### All Events
 ![All Events](all_events.jpg.png)
 
 ### Admin Login
-![Admin Login](screenshots/admin_login.jpg)
+![Admin Login](admin_login.jpg.png)
 
 ### Admin Dashboard
 ![Admin Dashboard](admin_dashboard.jpg.png)
