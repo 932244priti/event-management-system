@@ -1,28 +1,66 @@
-# EventHub — Event Booking Web Application
+# 🎉 EventHub — Event Booking Web Application
 
-EventHub ek PHP-based web application hai jo users ko events browse karne aur tickets book karne ki suvidha deta hai.
+🚀 A full-stack web application that allows users to browse events and book tickets online.
 
-## Features
-- Events Listing — Sabhi upcoming events ek jagah dekho
-- Filter & Search — Category aur search se events filter karo
-- Ticket Booking — Directly event page se tickets book karo
-- User Authentication — Register aur Login system
-- Mobile Friendly — Sabhi devices pe kaam karta hai
+---
 
-## Tech Stack
-- Frontend: HTML, CSS, JavaScript
-- Backend: PHP
-- Database: MySQL
-- Server: Apache (AWS EC2)
+## 🔥 Features
 
-## Project Structure
-- index.php — Homepage
-- user/events.php — Events listing
-- user/login.php — Login page
-- user/register.php — Register page
-- user/book.php — Booking page
+✨ Browse all upcoming events in one place  
+🔍 Search & filter events بسهولة  
+🎟️ Book tickets directly from event page  
+🔐 Secure user authentication (Login/Register)  
+📱 Fully responsive (mobile-friendly)
 
-## Live URL
-http://43.205.236.225/
+---
 
-2025 EventHub. All Rights Reserved.
+## 🛠️ Tech Stack
+
+| Layer       | Technology |
+|------------|-----------|
+| Frontend   | HTML, CSS, JavaScript |
+| Backend    | PHP |
+| Database   | MySQL |
+| Server     | Apache (AWS EC2) |
+
+---
+
+## 📂 Project Structure
+/admin        → Admin dashboard
+/user         → User panel
+/config       → Database configuration
+/includes     → Common files
+index.php     → Homepage
+
+---
+
+## ☁️ Deployment
+
+✅ Deployed on AWS EC2 using LAMP Stack  
+✅ GitHub used for version control  
+
+---
+
+## 🌐 Live Demo
+
+🔗 http://43.205.236.225
+
+---
+
+## 📸 Screenshots
+
+(Add your project screenshots here)
+
+---
+
+## 👩‍💻 Author
+
+**Priti Gawai**  
+🎓 Computer Engineering Student  
+💡 Interested in Web Development & Machine Learning  
+
+---
+
+## ⭐ Show your support
+
+If you like this project, give it a ⭐ on GitHub!
