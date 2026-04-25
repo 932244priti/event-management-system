@@ -49,7 +49,16 @@ index.php     → Homepage
 
 ## 📸 Screenshots
 
-(Add your project screenshots here)
+user_login.jpg.png
+user_registration.jpg.png
+ticket_booking.jpg.png
+all_ticket.jpg.png
+all_events.jpg.png
+admin_login.jpg.png
+admin_dashboard.jpg.png
+created_events.jpg.png
+events_creatation.jpg.png
+show_all_booking.jpg.png
 
 ---
 
