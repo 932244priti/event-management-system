@@ -47,18 +47,74 @@ index.php     → Homepage
 
 ---
 
+# 🎉 EventHub — Event Booking Web Application
+
+EventHub is a PHP-based web application that allows users to browse events and book tickets easily.
+
+---
+
+## 🌐 Live Demo
+🔗 http://43.205.236.225
+
+---
+
 ## 📸 Screenshots
 
-user_login.jpg.png
-user_registration.jpg.png
-ticket_booking.jpg.png
-all_ticket.jpg.png
-all_events.jpg.png
-admin_login.jpg.png
-admin_dashboard.jpg.png
-created_events.jpg.png
-events_creatation.jpg.png
-show_all_booking.jpg.png
+### User Login
+![User Login](screenshots/user_login.png)
+
+### User Registration
+![User Registration](screenshots/user_registration.png)
+
+### Ticket Booking
+![Ticket Booking](screenshots/ticket_booking.png)
+
+### All Events
+![All Events](screenshots/all_events.png)
+
+### Admin Login
+![Admin Login](screenshots/admin_login.png)
+
+### Admin Dashboard
+![Admin Dashboard](screenshots/admin_dashboard.png)
+
+### Created Events
+![Created Events](screenshots/created_events.png)
+
+### Event Creation
+![Event Creation](screenshots/events_creation.png)
+
+### All Bookings
+![All Bookings](screenshots/show_all_booking.png)
+
+---
+
+## ✨ Features
+
+- 📌 Events Listing — View all upcoming events
+- 🔍 Filter & Search — Easily find events
+- 🎟️ Ticket Booking — Book tickets directly
+- 🔐 User Authentication — Register & Login system
+- 📱 Mobile Friendly — Works on all devices
+
+---
+
+## 🛠️ Tech Stack
+
+- Frontend: HTML, CSS, JavaScript
+- Backend: PHP
+- Database: MySQL
+- Server: Apache (AWS EC2)
+
+---
+
+## 📁 Project Structure
+
+- `index.php` — Homepage  
+- `user/events.php` — Events listing  
+- `admin/` — Admin panel  
+- `config/db.php` — Database connection  
+- `includes/auth.php` — Authentication logic  
 
 ---
 
@@ -69,6 +125,8 @@ show_all_booking.jpg.png
 💡 Interested in Web Development & Machine Learning  
 
 ---
+
+
 
 ## ⭐ Show your support
 
